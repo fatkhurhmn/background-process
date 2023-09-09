@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BackgroudProcess</string>
-    <string name="activate_notification">Aktifkan notifikasi berkala</string>
+    <string name="activate_notification">Aktifkan notifikasi</string>
     <string name="cancel_notification">Matikan notifikasi</string>
 </resources>
